@@ -34,4 +34,4 @@ Are you familiar with React and Node.js? If yes, provide a brief description of 
 Learning Intentions:
 Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
 
--I want to learn more about coding and create my projects
+-I want to learn more about coding and create my projects.
